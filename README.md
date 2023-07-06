@@ -1,6 +1,6 @@
 # Car Warriors
 
-##INTRODUCTION
+## INTRODUCTION
  
 _Construction of an autonomous, engineered car for the WRO 2023 competition._
 
